@@ -1,0 +1,52 @@
+# Flask related dependencies
+Flask==3.0.3
+Werkzeug==3.0.3
+
+# General utilities
+blinker==1.8.2
+colorama==0.4.6
+filelock==3.15.4
+dill==0.3.8
+typing_extensions==4.12.2
+tqdm==4.66.4
+
+# HTTP and URL handling
+requests==2.32.3
+certifi==2024.7.4
+charset-normalizer==3.3.2
+idna==3.7
+urllib3==2.2.2
+
+# Data processing and scientific computing
+numpy==1.26.4
+pandas==2.2.2
+
+
+# Visualization
+matplotlib==3.9.1
+seaborn==0.13.2
+pillow==10.4.0
+
+# OpenCV
+opencv-python-headless==4.10.0.84
+
+# Machine Learning and Deep Learning
+
+ultralytics==8.2.51
+ultralytics-thop==2.0.0
+
+# System and performance
+
+
+# XML handling
+defusedxml==0.7.1
+
+# File system specification
+
+# Additional utilities
+supervision==0.22.0rc1
+PyYAML==6.0.1
+py-cpuinfo==9.0.0
+
+# Packaging
+packaging==24.1
