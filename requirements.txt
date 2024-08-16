@@ -1,7 +1,7 @@
 # Flask related dependencies
 Flask==3.0.3
 Werkzeug==3.0.3
-
+gunicorn
 # General utilities
 blinker==1.8.2
 colorama==0.4.6
